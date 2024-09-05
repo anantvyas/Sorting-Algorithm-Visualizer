@@ -23,7 +23,7 @@ This project is a web-based visualizer for various sorting algorithms, built usi
 
 ## Demo
 
-You can see a live demo of the project 
+You can see a live demo of the project - https://anantvyas.github.io/Sorting-Algorithm-Visualizer/
 
 
 
